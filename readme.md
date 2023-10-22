@@ -6,3 +6,7 @@ I'm learning git
 # git checkout "name_branch"
 # git branch -D "name_brunch"
 # git merge "name_branch"
+# git clone "HTTPS"
+# git push
+# git pull
+# git remote add origin "HTTPS"
